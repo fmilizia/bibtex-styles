@@ -1,3 +1,11 @@
+% This style is derived from amsplain (American Mathematical Society).
+% The original style can be accessed at
+% https://www.ctan.org/tex-archive/biblio/bibtex/contrib/misc/amsplain.bst
+% and is distributed under the LaTeX Project Public License
+% http://www.latex-project.org/lppl.txt
+% Anyone wishing to distribute this or other derived works must comply with that licence.
+
+
 % See the file btxbst.doc for extra documentation other than
 % what is included here.  And see btxhak.tex for a description
 % of the BibTeX language and how to use it.

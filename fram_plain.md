@@ -1,8 +1,8 @@
 # fram_plain
 This style is derived from amsplain (American Mathematical Society).
 
-A copy of the original style can be found in the "unmodified copies" folder, which is subjected to the licence https://www.latex-project.org/lppl.txt.
-If you wish to distribute a work derived from the original *amsplain* or the derived *fram_plain*, please refer to the aforementioned documentation.
+The original style, which can be found in the "unmodified copies" folder, is distributed under the licence https://www.latex-project.org/lppl.txt.
+Anyone wishing to distribute this or other derived works must comply with that licence.
 
 List of changes in the derived work:
  - The entry 'doi' is added;
