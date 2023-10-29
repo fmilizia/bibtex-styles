@@ -703,7 +703,7 @@ FUNCTION {format.incoll.inproc.crossref}
 	      crossref * warning$
 	      ""
 	    }
-	    { "in \emph{" booktitle * "}" * }
+	    { "in ``" booktitle * "''" * }
 	  if$
 	}
 	{ "in " key * }
@@ -914,20 +914,22 @@ FUNCTION {proceedings}
   if$
   format.title.book "title" output.check
   format.bookvolume.series.number output
-  address empty$
+  location empty$
     { editor empty$
         'skip$
 	{ organization output }
       if$
       publisher output
+      address output
       format.date "year" output.check
     }
-    { address output.nonnull
+    { location output.nonnull
       editor empty$
 	'skip$
 	{ organization output }
       if$
       publisher output
+      address output
       format.date "year" output.check
     }
   if$

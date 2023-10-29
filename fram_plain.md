@@ -19,3 +19,4 @@ List of changes in the derived work:
  - Function 'unpublished': now uses 'output' instead of 'output.check' when printing 'note'.
  - Function 'format.nonauthor.editors': now places "ed." or "eds." in parenthesis.
  - Functions 'format.inproc.title.address.editors' and 'format.incoll.title.editors': now do not enclose editors in patenthesis, and put the booktitle between "in: ``" and "''".
+ - Function 'format.incoll.inproc.crossref': the booktitle is now between double quotes, not emphasized.
