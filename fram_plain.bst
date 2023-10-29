@@ -4,6 +4,8 @@
 % and is distributed under the LaTeX Project Public License
 % http://www.latex-project.org/lppl.txt
 % Anyone wishing to distribute this or other derived works must comply with that licence.
+% The differences from the original style are described at
+% https://github.com/fmilizia/bibtex-styles
 
 
 % See the file btxbst.doc for extra documentation other than
@@ -11,7 +13,7 @@
 % of the BibTeX language and how to use it.
 
 % This defines the types of fields that can occur in a database entry
-% for this particular bibliography style.  Except for `language',
+% for this particular bibliography style.  Except for `language', 'doi' and 'location',
 % this is the standard list from plain.bst.
 
 %% Types of entries currently allowed in a BibTeX file:
