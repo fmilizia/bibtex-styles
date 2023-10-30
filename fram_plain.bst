@@ -1,11 +1,11 @@
+% https://github.com/fmilizia/bibtex-styles
+
 % This style is derived from amsplain (American Mathematical Society).
 % The original style can be accessed at
 % https://www.ctan.org/tex-archive/biblio/bibtex/contrib/misc/amsplain.bst
 % and is distributed under the LaTeX Project Public License
 % http://www.latex-project.org/lppl.txt
 % Anyone wishing to distribute this or other derived works must comply with that licence.
-% The differences from the original style are described at
-% https://github.com/fmilizia/bibtex-styles
 
 % List of changes from amsplain to fram_plain:
 % - The entry 'doi' is added;
